@@ -1,0 +1,6 @@
+{
+  "name": "DocuGuard AI",
+  "description": "AI-powered digital document and invoice fraud detection, forensic inspection, duplicate matching, and explainable risk scoring system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
